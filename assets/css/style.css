@@ -661,6 +661,10 @@ section {
   right: 15px;
 }
 
+.portfolio .portfolio-description{
+  color: #fff;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -724,6 +728,9 @@ section {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+}
+.portfolio .portfolio-description strong{
+  color: #00ff80c1;
 }
 
 /*--------------------------------------------------------------
@@ -844,7 +851,7 @@ section {
   padding: 10px 12px;
 }
 
-.contact .email-form button[type=submit] {
+.contact button[type=submit] {
   background: #00ff80c1;
   border: 0;
   padding: 10px 35px;
@@ -853,7 +860,7 @@ section {
   border-radius: 50px;
 }
 
-.contact .email-form button[type=submit]:hover {
+.contact button[type=submit]:hover {
   background: #0678e3;
 }
 

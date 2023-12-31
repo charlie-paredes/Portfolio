@@ -1,6 +1,9 @@
-Thanks for downloading this template!
+Welcome to my portfolio!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This site is crafted with BootstrapMade.com's template, refined to better represent my experience. 
+I've updated the design, content, and added more functional forms.
+
+As of January 2024, all information here is current. Thanks for visiting!
+
+Best,
+Carlos Paredes.
